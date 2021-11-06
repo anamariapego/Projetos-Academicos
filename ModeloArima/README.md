@@ -5,6 +5,6 @@ Evolução dos casos de covid-19 em Porto Alegre.
 
 #### Autores 
 
-* [Ana Maria Pinheiro](https://www.linkedin.com/in/ana-maria-pego-pinheiro-0b2a3a181)
+* [Ana Maria Pinheiro](https://www.linkedin.com/in/ana-pego)
 * [Alessandra Paranhas](https://www.linkedin.com/in/alessandra-paranhas)
 * [João Pedro Faria](https://www.linkedin.com/in/joão-pedro-faria-759161187)
