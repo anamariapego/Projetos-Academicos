@@ -1,0 +1,301 @@
+ID Cliente,Atendente,Data,Mensagem,Tempo de conclusão de atendimento em minutos ,Cliente desisitu,NPS
+876786,Ana,01/01/2020,O que o seguro cobre?,10,Náo,6
+876787,Ana,01/01/2020,Gostaria de saber qual o valor do seguro para carros?,5,Náo,8
+876788,Ana,01/01/2020,Este seguro cobre desastres naturais?,20,Náo,4
+876789,Ana,01/01/2020,Gostaria de saber sobre o valor de franquia do seguro,10,Náo,3
+876790,Ana,01/01/2020,Como aciono o seguro?,5,Náo,5
+876791,Ana,01/01/2020,O que está coberto pelo seguro,20,Náo,6
+876792,Ana,01/01/2020,O seguro cobre desastres como queda de árvore?,40,Náo,2
+876793,Ana,01/01/2020,Gostaria de saber qual o valor do seguro para carros,10,Náo,3
+876794,Ana,01/01/2020,"Vendi meu carro, posso passar o seguro?",5,Náo,4
+876795,Ana,01/01/2020,O que está coberto pelo seguro?,20,Náo,2
+876796,Ana,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,10
+876797,Ana,01/01/2020,Quais as formas de pagamento do seguro?,5,Náo,10
+876798,Ana,01/01/2020,Quais os benefícios do seguro?,15,Náo,5
+876799,Ana,01/01/2020,O seguro possui carro reserva?,10,Náo,6
+876800,Ana,01/01/2020,O que está coberto pelo seguro,5,Náo,7
+876801,Ana,01/01/2020,Quais as modalidades de seguro que são oferecidas?,20,Náo,8
+876802,Ana,01/01/2020,Qual o valor de franquia?,40,Náo,4
+876803,Luiz,01/01/2020,Como faço para contratar o seguro?,5,Náo,3
+876804,Luiz,01/01/2020,"Meu carro foi roubado, o que eu faço?",15,Náo,2
+876805,Luiz,01/01/2020,Quais condições são oferecidas?,10,Náo,2
+876806,Luiz,01/01/2020,"O pneu furou, poderia enviar alguem para trocar?",5,Náo,2
+876807,Luiz,01/01/2020,Quais documentos preciso para contratar o seguro?,20,Náo,0
+876808,Luiz,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,7
+876809,Luiz,01/01/2020,Qual o valor de franquia?,5,Náo,6
+876810,Luiz,01/01/2020,Gostaria de falar com gerente,15,Náo,8
+876811,Luiz,01/01/2020,Poderia me ajudar com o acionamento do seguro? O pneu furou,18,Náo,6
+876812,Luiz,01/01/2020,"O serviço dessa seguradora é ruim, onde faço reclamações",0,Sim,0
+876813,José,01/01/2020,Quero cancelar o seguro,45,Náo,4
+876814,José,01/01/2020,Quais os benefícios do seguro?,35,Náo,5
+876815,José,01/01/2020,Mudei de carro como faço para transferir o seguro?,32,Náo,6
+876816,José,01/01/2020,Quais as modalidades de seguro que são oferecidas?,30,Náo,7
+876817,José,01/01/2020,Gostaria de saber qual o valor do seguro para carros,10,Náo,7
+876818,José,01/01/2020,Como faço para contratar o seguro?,5,Náo,2
+876819,José,01/01/2020,Quais os benefícios do seguro?,20,Náo,3
+876820,José,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,5
+876821,José,01/01/2020,Qual o valor de franquia?,5,Náo,8
+876822,José,01/01/2020,Quais condições são oferecidas?,15,Náo,9
+876823,José,01/01/2020,Gostaria de saber qual o valor do seguro para motos,10,Náo,7
+876824,José,01/01/2020,Como funcionar este seguro?,5,Náo,6
+876825,José,01/01/2020,Quais as taxas do seguro?,20,Náo,7
+876826,Cláudia,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,8
+876827,Cláudia,01/01/2020,"Preciso de um reboque, como faço?",5,Náo,9
+876828,Cláudia,01/01/2020,"O pneu furou, poderia enviar alguem para trocar?",15,Náo,9
+876829,Cláudia,01/01/2020,Gostaria de saber qual o valor do seguro para carros,50,Náo,7
+876830,Cláudia,01/01/2020,Quais as modalidades de seguro que são oferecidas?,6,Náo,7
+876831,Cláudia,01/01/2020,O que está coberto pelo seguro,45,Náo,6
+876832,Cláudia,01/01/2020,O seguro possui carro reserva?,35,Náo,3
+876833,Cláudia,01/01/2020,Quero cancelar o seguro,23,Náo,4
+876834,Cláudia,01/01/2020,Qual o valor de franquia?,22,Náo,5
+876835,Cláudia,01/01/2020,Como faço para contratar o seguro?,12,Náo,2
+876836,Cláudia,01/01/2020,Gostaria de saber qual o valor do seguro para carros,10,Náo,5
+876837,Cláudia,01/01/2020,Como funcionar este seguro?,5,Náo,3
+876838,Cláudia,01/01/2020,Gostaria de saber qual o valor do seguro para carros,20,Náo,4
+876839,Cláudia,01/01/2020,Quais os benefícios do seguro?,40,Náo,7
+876840,Cláudia,01/01/2020,O que está coberto pelo seguro,5,Náo,6
+876841,Cláudia,01/01/2020,O seguro possui carro reserva?,15,Náo,7
+876842,Cláudia,01/01/2020,Quais as modalidades de seguro que são oferecidas?,10,Náo,8
+876843,Cláudia,01/01/2020,Quero cancelar o seguro,5,Náo,9
+876844,Cláudia,01/01/2020,Como acionar o seguro,20,Náo,9
+876845,Cláudia,01/01/2020,"Preciso de um reboque, como faço?",40,Náo,7
+876846,Cláudia,01/01/2020,O que tenho de serviço neste seguro?,5,Náo,7
+876847,Cláudia,01/01/2020,Quais os serviços oferecidos?,15,Sim,0
+876848,Cláudia,01/01/2020,Quero cancelar o seguro,10,Náo,3
+876849,Cláudia,01/01/2020,Como faço para contratar o seguro?,5,Náo,4
+876850,Cláudia,01/01/2020,"Estou precisando de um carro reserva, o meu quebrou",20,Náo,5
+876851,Cláudia,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,2
+876852,Cláudia,01/01/2020,O seguro possui carro reserva?,5,Náo,5
+876853,Manuel,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,15,Náo,3
+876854,Manuel,01/01/2020,Como cancelo o seguro?,90,Náo,4
+876855,Manuel,01/01/2020,Tem taxa de cancelamento de seguro?,5,Náo,7
+876856,Manuel,01/01/2020,O que está coberto pelo seguro,60,Náo,6
+876857,Manuel,01/01/2020,Quais as modalidades de seguro que são oferecidas?,30,Náo,7
+876858,Manuel,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,8
+876859,Manuel,01/01/2020,Qual o valor de franquia?,45,Náo,9
+876860,Manuel,01/01/2020,Como faço para contratar o seguro?,35,Náo,9
+876861,Ana,01/01/2020,Gostaria de saber qual o valor do seguro para carros,25,Náo,7
+876862,Luiz,01/01/2020,Quais os benefícios do seguro?,10,Náo,7
+876863,José,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,6
+876864,Maria,01/01/2020,O que tenho de serviço neste seguro?,20,Náo,3
+876865,Maria,01/01/2020,Quais as taxas para contratar o seguro?,40,Náo,4
+876866,Maria,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,5
+876867,Maria,01/01/2020,Por quanto tempo este seguro vale?,15,Náo,2
+876868,Maria,01/01/2020,Quais os benefícios do seguro?,15,Náo,5
+876869,Maria,01/01/2020,O que está coberto pelo seguro,10,Náo,3
+876870,Maria,01/01/2020,Quais as modalidades de seguro que são oferecidas?,5,Náo,4
+876871,Maria,01/01/2020,Quais os serviços oferecidos?,20,Náo,7
+876872,Maria,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,6
+876873,Maria,01/01/2020,Quais os benefícios do seguro?,5,Náo,7
+876874,Maria,01/01/2020,Quais as modalidades de seguro que são oferecidas?,15,Náo,8
+876875,Maria,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,90,Náo,9
+876876,Maria,01/01/2020,Chuva de granizo esta coberto pelo seguro?,5,Náo,9
+876877,Maria,01/01/2020,Como funcionar este seguro?,60,Náo,7
+876878,Maria,01/01/2020,Quais os benefícios do seguro?,30,Náo,7
+876879,Maria,01/01/2020,Como faço para contratar o seguro?,35,Náo,6
+876880,Maria,01/01/2020,Quanto tenho que pagar por mês para contratar este seguro?,45,Náo,3
+876881,Maria,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,4
+876882,Maria,01/01/2020,Quais as formas de pagamento?,25,Náo,5
+876883,Maria,01/01/2020,Como funcionar este seguro?,10,Sim,0
+876884,José,01/01/2020,Gostaria de saber qual o valor do seguro para carros,5,Náo,5
+876885,José,01/01/2020,Quais os benefícios do seguro?,20,Náo,3
+876886,José,01/01/2020,Quais as modalidades de seguro que são oferecidas?,40,Náo,4
+876887,José,01/01/2020,Qual o valor de franquia?,5,Náo,7
+876888,José,01/01/2020,Gostaria de saber qual o valor do seguro para carros,15,Náo,6
+876889,José,01/01/2020,Os pagamentos são realizados via boleto?,15,Náo,7
+876890,José,01/01/2020,Como funcionar este seguro?,10,Náo,8
+876891,José,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,9
+876892,Carlos,01/01/2020,Aceita parcelamento no cartão de crédito?,20,Náo,9
+876893,Carlos,01/01/2020,Como funcionar este seguro?,40,Náo,7
+876894,Carlos,01/01/2020,"Meu carro nao liga, como posso pedir carro reserva?",5,Náo,7
+876895,Carlos,01/01/2020,Gostaria de saber qual o valor do seguro para carros,15,Náo,6
+876896,Carlos,01/01/2020,Quais as modalidades de seguro que são oferecidas?,90,Náo,3
+876897,Carlos,01/01/2020,Gostaria de saber qual o valor do seguro para carros,5,Náo,4
+876898,Carlos,01/01/2020,"Estou precisando de um carro reserva, o meu quebrou",60,Náo,5
+876899,Carlos,01/01/2020,Como funcionar este seguro?,30,Náo,2
+876900,Carlos,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,35,Náo,5
+876901,Carlos,01/01/2020,Quais as formas de pagamento?,45,Náo,3
+876902,Carlos,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,15,Náo,4
+876903,Carlos,01/01/2020,Como faço para contratar o seguro?,10,Náo,7
+876904,Carlos,01/01/2020,Quais os benefícios do seguro?,5,Náo,6
+876905,Carlos,01/01/2020,O que está coberto pelo seguro,20,Náo,7
+876906,Carlos,01/01/2020,Qual o valor de franquia?,40,Sim,0
+876907,Carlos,01/01/2020,Como cancelo o seguro?,5,Náo,9
+876908,Carlos,01/01/2020,Vendi meu carro preciso cancelar o seguro,15,Náo,9
+876909,Carlos,01/01/2020,Gostaria de saber qual o valor do seguro para carros,90,Náo,7
+876910,Carlos,01/01/2020,Quais as modalidades de seguro que são oferecidas?,5,Náo,7
+876911,Carlos,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,60,Náo,6
+876912,Carlos,01/01/2020,Como funcionar este seguro?,30,Náo,3
+876913,Carlos,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,4
+876914,Edson,01/01/2020,Qual o valor de franquia?,45,Náo,5
+876915,Edson,01/01/2020,Quais os benefícios do seguro?,15,Náo,2
+876916,Edson,01/01/2020,"Preciso cancelar o seguro, como faço?",10,Náo,5
+876917,Edson,01/01/2020,Onde abro reclamação?,5,Náo,3
+876918,Edson,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,20,Náo,4
+876919,Edson,01/01/2020,Quais os benefícios do seguro?,40,Náo,7
+876920,Edson,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,6
+876921,Edson,01/01/2020,Quais os benefícios do seguro?,15,Náo,7
+876922,Edson,01/01/2020,Quais as modalidades de seguro que são oferecidas?,90,Náo,8
+876923,Edson,01/01/2020,Como faço para contratar o seguro?,5,Náo,9
+876924,Edson,01/01/2020,Gostaria de saber qual o valor do seguro para carros,60,Náo,9
+876925,Edson,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,30,Náo,7
+876926,Edson,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,7
+876927,Edson,01/01/2020,Qual o valor de franquia?,45,Náo,6
+876928,Edson,01/01/2020,"Preciso de um reboque, como faço?",35,Náo,3
+876929,Edson,01/01/2020,Quais os benefícios do seguro?,25,Náo,4
+876930,Edson,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,10,Náo,5
+876931,Edson,01/01/2020,Quais os benefícios do seguro?,5,Náo,2
+876932,Edson,01/01/2020,Quais as modalidades de seguro que são oferecidas?,20,Náo,5
+876933,Edson,01/01/2020,Gostaria de saber qual o valor do seguro para carros,40,Náo,3
+876934,Edson,01/01/2020,O seguro possui carro reserva?,15,Náo,4
+876935,Edson,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,10,Náo,7
+876936,Edson,01/01/2020,O que está na cobertura deste seguro?,5,Náo,6
+876937,Edson,01/01/2020,O que está coberto pelo seguro,20,Náo,7
+876938,Lucas,01/01/2020,Quais as modalidades de seguro que são oferecidas?,40,Náo,8
+876939,Lucas,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,9
+876940,Lucas,01/01/2020,O seguro possui carro reserva?,15,Náo,9
+876941,Lucas,01/01/2020,Como faço para acionar o seguro?,90,Náo,7
+876942,Lucas,01/01/2020,Quais as formas de pagamento?,5,Náo,7
+876943,Lucas,01/01/2020,Como pedir segunda via do boleto?,60,Náo,6
+876944,Lucas,01/01/2020,Gostaria de saber qual o valor do seguro para carros,30,Náo,3
+876945,Lucas,01/01/2020,Como faço para contratar o seguro?,35,Náo,4
+876946,Lucas,01/01/2020,O que tenho de serviço neste seguro?,45,Náo,5
+876947,Lucas,01/01/2020,Quais os benefícios do seguro?,35,Náo,2
+876948,Lucas,01/01/2020,Quais os serviços oferecidos?,25,Náo,5
+876949,Lucas,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,10,Náo,3
+876950,Lucas,01/01/2020,Quais as formas de pagamento?,5,Náo,4
+876951,Lucas,01/01/2020,Como faço para contratar o seguro?,20,Náo,7
+876952,Lucas,01/01/2020,"Preciso de um reboque, como faço?",40,Náo,6
+876953,Lucas,01/01/2020,Preciso de um carro reserva,5,Náo,7
+876954,Lucas,01/01/2020,Como faço para contratar o seguro?,15,Náo,8
+876955,Lucas,01/01/2020,Preciso de um reboque,15,Náo,9
+876956,Lucas,01/01/2020,Gostaria de saber qual o valor do seguro para carros,10,Náo,9
+876957,Lucas,01/01/2020,Quais os serviços oferecidos?,5,Náo,7
+876958,Luiza,01/01/2020,Como faço para contratar o seguro?,20,Náo,7
+876959,Luiza,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,40,Náo,6
+876960,Luiza,01/01/2020,Quais condições são oferecidas?,5,Náo,3
+876961,Luiza,01/01/2020,O que está coberto pelo seguro,15,Náo,4
+876962,Luiza,01/01/2020,Como faço para contratar o seguro?,90,Náo,5
+876963,Luiza,01/01/2020,Como funcionar este seguro?,5,Náo,2
+876964,Luiza,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,60,Sim,0
+876965,Luiza,01/01/2020,Quais os benefícios do seguro?,30,Náo,3
+876966,Luiza,01/01/2020,Como faço para contratar o seguro?,35,Náo,4
+876967,Luiza,01/01/2020,O que o seguro não cobre?,45,Náo,7
+876968,Luiza,01/01/2020,O que está coberto pelo seguro,35,Náo,6
+876969,Luiza,01/01/2020,"Preciso de um reboque, como faço?",25,Náo,7
+876970,Luiza,01/01/2020,Gostaria de saber qual o valor do seguro para carros,10,Náo,8
+876971,Luiza,01/01/2020,Como faço para contratar o seguro?,15,Náo,9
+876972,Luiza,01/01/2020,Quais os benefícios do seguro?,10,Náo,9
+876973,Luiza,01/01/2020,Quais os serviços oferecidos?,5,Náo,7
+876974,Luiza,01/01/2020,O seguro possui carro reserva?,20,Náo,7
+876975,Luiza,01/01/2020,Como pedir segunda via do boleto?,40,Náo,6
+876976,Luiza,01/01/2020,Quais condições são oferecidas?,5,Náo,3
+876977,Luiza,01/01/2020,O que está coberto pelo seguro,15,Náo,4
+876978,Luiza,01/01/2020,Quais as formas de pagamento?,90,Náo,7
+876979,Luiza,01/01/2020,"Preciso de um reboque, como faço?",5,Náo,6
+876980,Luiza,01/01/2020,Como faço para contratar o seguro?,60,Náo,7
+876981,Luiza,01/01/2020,Como faço para contratar o seguro?,30,Náo,8
+876982,Luiza,01/01/2020,"O pneu furou, poderia enviar alguem para trocar?",35,Náo,9
+876983,Luiza,01/01/2020,O que preciso para contratar o seguro?,45,Náo,9
+876984,Ana,01/01/2020,O que está coberto pelo seguro,35,Náo,7
+876985,Ana,01/01/2020,Como funcionar este seguro?,25,Náo,7
+876986,Ana,01/01/2020,Quais os benefícios do seguro?,10,Náo,6
+876987,Ana,01/01/2020,Quais condições são oferecidas?,5,Náo,3
+876988,Ana,01/01/2020,O seguro possui carro reserva?,20,Náo,7
+876989,Ana,01/01/2020,Como faço para contratar o seguro?,40,Náo,6
+876990,Ana,01/01/2020,Onde faço reclamação?,5,Náo,7
+876991,Ana,01/01/2020,O seguro possui carro reserva?,15,Náo,8
+876992,Ana,01/01/2020,"Meu boleto veio errado, o que devo fazer?",15,Náo,9
+876993,Ana,01/01/2020,"O pneu furou, poderia enviar alguem para trocar?",10,Náo,9
+876994,Ana,01/01/2020,Quais os benefícios do seguro?,5,Náo,7
+876995,Ana,01/01/2020,O boleto não chegou,20,Náo,7
+876996,Ana,01/01/2020,O que tenho de serviço neste seguro?,40,Náo,6
+876997,Ana,01/01/2020,Gostaria de saber qual o valor do seguro para carros,5,Náo,3
+876998,Ana,01/01/2020,O que está coberto pelo seguro,15,Náo,4
+876999,Ana,01/01/2020,Como faço para contratar o seguro?,90,Náo,5
+877000,Ana,01/01/2020,O que está coberto pelo seguro,5,Náo,7
+877001,Ana,01/01/2020,Como pedir segunda via do boleto?,60,Náo,6
+877002,Ana,01/01/2020,Quais as formas de pagamento?,30,Náo,7
+877003,Ana,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,35,Náo,8
+877004,Ana,01/01/2020,Quais os valores do seguro?,45,Náo,9
+877005,Ana,01/01/2020,O que está coberto pelo seguro,35,Náo,9
+877006,Ana,01/01/2020,Como peço carro reserva?,25,Náo,7
+877007,Ana,01/01/2020,Como pedir segunda via do boleto?,10,Náo,7
+877008,Ana,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,6
+877009,Ana,01/01/2020,Quais condições são oferecidas?,15,Náo,3
+877010,José,01/01/2020,Quais os serviços oferecidos?,10,Náo,4
+877011,José,01/01/2020,Como pedir segunda via do boleto?,5,Náo,5
+877012,José,01/01/2020,Como posso contratar o seguro?,20,Náo,2
+877013,José,01/01/2020,O que está coberto pelo seguro,40,Náo,5
+877014,José,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,3
+877015,José,01/01/2020,Quais os benefícios do seguro?,15,Náo,4
+877016,José,01/01/2020,Quais os serviços oferecidos?,90,Náo,7
+877017,José,01/01/2020,Como cancelo o seguro?,5,Náo,6
+877018,José,01/01/2020,Comprei um novo carro como faço para mudar o seguro?,60,Náo,7
+877019,José,01/01/2020,Gostaria de saber qual o valor do seguro para carros,30,Náo,8
+877020,José,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,35,Náo,9
+877021,José,01/01/2020,"Estou precisando de trocar o pneu do carro, poderiam enviar alguem?",15,Náo,9
+877022,José,01/01/2020,Quais os benefícios do seguro?,10,Náo,7
+877023,José,01/01/2020,Como pedir segunda via do boleto?,5,Náo,7
+877024,José,01/01/2020,Quais as formas de pagamento?,20,Náo,6
+877025,José,01/01/2020,"Gostaria de cancelar o seguro, como faço?",40,Náo,3
+877026,José,01/01/2020,O que está coberto pelo seguro,5,Náo,4
+877027,José,01/01/2020,Como eu posso usar os serviços oferecidos?,15,Náo,5
+877028,José,01/01/2020,Como pedir segunda via do boleto?,90,Náo,7
+877029,José,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,6
+877030,Maria,01/01/2020,Como pedir segunda via do boleto?,60,Náo,7
+877031,Maria,01/01/2020,Contra o que este seguro esta coberto?,30,Náo,8
+877032,Maria,01/01/2020,Qual o valor de franquia?,35,Náo,9
+877033,Maria,01/01/2020,Quais as formas de pagamento?,45,Náo,9
+877034,Maria,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,7
+877035,Maria,01/01/2020,Quais os serviços oferecidos?,25,Náo,7
+877036,Maria,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,10,Náo,6
+877037,Maria,01/01/2020,Este seguro cobre desastres naturais?,5,Náo,3
+877038,Maria,01/01/2020,"Estou precisando de trocar o pneu do carro, poderiam enviar alguem?",20,Náo,4
+877039,Maria,01/01/2020,O que está coberto pelo seguro,40,Náo,5
+877040,Maria,01/01/2020,Como faço para contratar o seguro?,5,Náo,2
+877041,Maria,01/01/2020,Qual o valor de franquia?,15,Náo,5
+877042,Maria,01/01/2020,Quais os benefícios do seguro?,15,Náo,3
+877043,Maria,01/01/2020,Preciso de um reboque,10,Náo,4
+877044,Maria,01/01/2020,Como pedir segunda via do boleto?,5,Náo,7
+877045,Maria,01/01/2020,Este seguro cobre desastres naturais?,20,Náo,6
+877046,Maria,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,40,Náo,7
+877047,Lucas,01/01/2020,Qual o valor de franquia?,5,Náo,8
+877048,Lucas,01/01/2020,Preciso de carro reserva,15,Náo,9
+877049,Lucas,01/01/2020,Tem desconto em pagamento a vista?,90,Náo,9
+877050,Lucas,01/01/2020,Meu carro foi roubado o que devo fazer?,5,Náo,7
+877051,Lucas,01/01/2020,Gostaria de saber qual o valor do seguro para carros,60,Náo,7
+877052,Lucas,01/01/2020,Qual o valor de franquia?,30,Náo,6
+877053,Lucas,01/01/2020,Como pedir segunda via do boleto?,35,Náo,3
+877054,Lucas,01/01/2020,Este seguro cobre desastres naturais?,45,Náo,4
+877055,Lucas,01/01/2020,O que está coberto pelo seguro,35,Náo,5
+877056,Lucas,01/01/2020,Quais os serviços oferecidos?,25,Náo,2
+877057,Lucas,01/01/2020,Quais as formas de pagamento?,10,Náo,5
+877058,Lucas,01/01/2020,Qual o valor de franquia?,5,Náo,3
+877059,Lucas,01/01/2020,Quais os benefícios do seguro?,20,Náo,4
+877060,Lucas,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,40,Náo,10
+877061,Lucas,01/01/2020,Como pedir segunda via do boleto?,5,Náo,5
+877062,Lucas,01/01/2020,Quais as formas de pagamento?,15,Náo,10
+877063,Lucas,01/01/2020,Gostaria de saber qual o valor do seguro para carros,15,Náo,7
+877064,Lucas,01/01/2020,Quais condições são oferecidas?,10,Náo,6
+877065,Lucas,01/01/2020,Como faço para cancelar o seguro?,5,Náo,7
+877066,Lucas,01/01/2020,Quais as modalidades de seguro que são oferecidas?,20,Náo,8
+877067,Manuel,01/01/2020,Como peço carro reserva?,40,Náo,9
+877068,Manuel,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,5,Náo,9
+877069,Manuel,01/01/2020,Quais os serviços oferecidos?,15,Náo,7
+877070,Manuel,01/01/2020,Como faço para cancelar o seguro?,90,Náo,7
+877071,Manuel,01/01/2020,Quais as modalidades de seguro que são oferecidas?,5,Náo,6
+877072,Manuel,01/01/2020,Quais os benefícios do seguro?,60,Náo,3
+877073,Manuel,01/01/2020,Quais condições são oferecidas?,30,Náo,4
+877074,Manuel,01/01/2020,O que está coberto pelo seguro,35,Náo,5
+877075,Manuel,01/01/2020,O que tenho que fazer quando precisar acionar o seguro?,45,Náo,2
+877076,Manuel,01/01/2020,Gostaria de saber qual o valor do seguro para carros,35,Náo,5
+877077,Manuel,01/01/2020,O que tenho de serviço neste seguro?,25,Náo,3
+877078,Manuel,01/01/2020,O seguro possui carro reserva?,10,Náo,4
+877079,Manuel,01/01/2020,Quais condições são oferecidas?,5,Náo,6
+877080,Manuel,01/01/2020,Quais as modalidades de seguro que são oferecidas?,20,Náo,7
+877081,Manuel,01/01/2020,Quais os benefícios do seguro?,40,Náo,4
+877082,Manuel,01/01/2020,Quais as modalidades de seguro que são oferecidas?,5,Náo,8
+877083,Manuel,01/01/2020,O que está coberto pelo seguro,15,Náo,9
+877084,Manuel,01/01/2020,O que está coberto pelo seguro,30,Náo,10
+,,,,23,Náo,10
