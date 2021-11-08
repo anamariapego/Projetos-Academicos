@@ -1,2 +1,9 @@
-# AnaliseSegurosVeiculos
+# Analise Seguro sVeiculos
+
 Análise de dados de uma empresa de Seguros de Veículos.
+
+ **Colaboradores:**
+ 
+* [Ana Maria Pinheiro](https://www.linkedin.com/in/ana-pego)
+* [João Pedro Faria](https://www.linkedin.com/in/joão-pedro-faria-759161187)
+* [Lucas de Lara Nunes](https://www.linkedin.com/in/lucas-de-lara-nunes/)
