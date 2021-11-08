@@ -4,7 +4,7 @@ Desenvolvimento do modelo arima com os dados de séries temporais do covid-19 da
 
 Evolução dos casos de covid-19 em Porto Alegre. 
 
-#### Autores 
+**Colaboradores:**
 
 * [Ana Maria Pinheiro](https://www.linkedin.com/in/ana-pego)
 * [Alessandra Paranhas](https://www.linkedin.com/in/alessandra-paranhas)
