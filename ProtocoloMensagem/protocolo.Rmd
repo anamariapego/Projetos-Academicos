@@ -1,0 +1,149 @@
+
+---
+title: "Protocolo Mensagem - Semáfaro"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+keep_md: yes
+---
+
+<script>
+  $(document).ready(function() {
+    $head = $('#header');
+    $head.prepend('<div class="knitr source"><img src="Semaforo.jpg" width="220px" align="right"   ></div>')
+  });
+</script>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Curso:** *Ciência de dados*
+
+**Disciplina:** *Computação na Nuvem e IoT*
+
+**Alunos:**
+
+- [Ana Maria P. Pinheiro](https://gitlab.com/ana_pinheiro)
+
+- [Alessandra Paranha](https://github.com/alessandraparanhas)
+
+- [João Pedro Faria](https://github.com/joaopedrofaria)
+
+---
+
+## **Protocolo Mensagem**
+
+Criação de um protocolo mensagem de comunicação para controle de semáforos de uma [Smart City](https://fgvprojetos.fgv.br/noticias/o-que-e-uma-cidade-inteligente).
+
+Ações e eventos permitidos:
+
+**1. Enviar comando para mudança de estágio do semáforo.**
+
+```
+msg_mudanca_estagio = {
+    "semafaro": "BH1372", 
+    "tempo": 1620172246756, 
+    "cmd": "mudar_estagio" 
+}
+```
+
+```
+msg_resposta_mudanca_estagio= {
+    "semafaro": "BH1372", 
+    "tempo": 1620172246756, 
+    "mudar_estagio": "amarelo" 
+}
+```
+
+**2. Solicitar estágio atual do semáforo.**
+
+```
+msg_requisitar_estagio = {
+    "semafaro": "BH1372", 
+    "tempo": 1620172246756, 
+    "cmd": "estagio_atual" 
+ }
+```
+
+```
+msg_resposta_estagio = {
+    "semafaro": "BH1372", 
+    "tempo": 1620172276756, 
+    "estagio_atual": "verde"   
+ }
+```
+
+**3. Solicitar tempo ate a mudança para o proximo estágio do semáforo.**
+
+```
+msg_solicitar_tempo = {
+    "semafaro": "BH1372",
+    "tempo": 1620172276756,
+    "cmd": "tempo_proximo_estagio"
+}
+```
+
+```
+msg_resposta_tempo = {
+    "semafaro": "BH1372",
+    "tempo": 1620172276756,
+    "tempo_proximo_estagio": "30s"
+}
+```
+**4. Solicitar tempos entre os ciclos do semáforo (vermelho-amarelo-verde).**
+
+```
+msg_tempo_ciclos = {
+    "semafaro": "BH1372",
+    "tempo": 1620172276756,
+    "cmd": "ciclos_semafaro"
+}
+```
+
+```
+msg_resposta_tempo_ciclos = {
+    "semafaro": "BH1372",
+    "tempo": 1620172276756,
+    "ciclos_semafaro": {"vermelho": "30s",
+                        "verde":"30s",
+                        "amarelo": "15s"}
+}
+```
+
+**5. Enviar comando para mudança de tempo do ciclo entre os estágios do semáforo.**
+
+```
+msg_mudanca_ciclo = {
+    "semafaro" = "BH1372",
+    "tempo": 1620172276756,
+    "cmd": "atualiza_ciclo",
+    "ciclos_semafaro": {"verde":"35s"}
+}
+```
+
+```
+msg_resposta_mudanca_ciclos = {
+    "semafaro": "BH1372",
+    "tempo": 1620172279756,
+    "ciclos_semafaro": {"vermelho": "30s",
+                        "verde":"35s",
+                        "amarelo": "15s"}
+}
+```
+**6. Enviar comando para atraso adicionando tempo extra para um determinado estado do semáforo (a fim de permitir sincronização). Supondo que cada semáforos é independente e autonomo e não sofre erros.**
+
+``` 
+msg_tempo_ciclo = {
+    "semafaro" = "BH1372",
+    "tempo": 1620172276756,
+    "cmd": "atualiza_tempo",
+    "atualiza_tempo": {"vermelho":"10s"}
+}
+```
+
+
+
