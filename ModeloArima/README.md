@@ -1,4 +1,5 @@
-# ModeloArima
+# Modelo Arima
+
 Desenvolvimento do modelo arima com os dados de séries temporais do covid-19 da cidade de Porto Alegre - RS. 
 
 Evolução dos casos de covid-19 em Porto Alegre. 
