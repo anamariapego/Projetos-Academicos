@@ -2,6 +2,8 @@
 
 Análise de dados de uma empresa de Seguros de Veículos.
 
+Link para visualizar o dashboard: https://url.gratis/GUdJmT 
+
  **Colaboradores:**
  
 * [Ana Maria Pinheiro](https://www.linkedin.com/in/ana-pego)
